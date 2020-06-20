@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/montserratlight.woff') format('woff');
+  src: url('../fonts/montserratlight.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Futura';
+  src: url('../fonts/futurademic.woff') format('woff');
+  src: url('../fonts/futurademic.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Futura';
+  src: url('../fonts/futuralightc.woff') format('woff');
+  src: url('../fonts/futuralightc.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
